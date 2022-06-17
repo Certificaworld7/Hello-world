@@ -1,4 +1,4 @@
-# Hello-world
+
 <h1><strong>Dr.APJ Abdul Kalam Technological University</strong></h1>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU72VGy9d4hfllnfAihHudnPCgyzxSD7n2Qg&usqp=CAU" width="300px" />
 <p>
