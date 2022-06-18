@@ -68,11 +68,9 @@ As of 2018, the state government has given administrative sanction to set up the
  
   </section>
 
-        <section class="copyright">
-            <span>© Copyright 2014. All Rights Reserved by AICTE</span>
-        </section>
-.css
+   <section class="copyright">
+   <span>© Copyright 2014. All Rights Reserved by AICTE</span>
+  </section>
 
-body {
-    background-color:yellow;
-};
+
+
