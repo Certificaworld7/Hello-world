@@ -1,5 +1,5 @@
 <html>
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text" href="style.css" />
 <body>
 <h1><strong>Dr.APJ Abdul Kalam Technological University</strong></h1>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU72VGy9d4hfllnfAihHudnPCgyzxSD7n2Qg&usqp=CAU" width="300px" />
